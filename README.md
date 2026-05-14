@@ -1,18 +1,33 @@
-# Awesome AI Tools
+# Best AI Tools Directory (2026) – Discover, Compare & Submit AI Tools
 
-> 8,213 AI tools curated from [poweredbyai.app](https://poweredbyai.app)
+Discover **8,214+** AI tools, AI agents, and AI software across categories like productivity, marketing, coding, and design.
 
-![Tools](https://img.shields.io/badge/tools-8213-blue)
+Curated by [PoweredbyAI](https://poweredbyai.app) — a growing directory to discover, compare, and submit AI tools across categories.
 
----
+👉 [Submit your AI tool](https://poweredbyai.app/signup?utm_source=github&utm_medium=repo&utm_campaign=best_ai_tools_repo&utm_content=submit_tool)
 
-## Table of Contents
+👉 [Explore all tools](https://poweredbyai.app/?utm_source=github&utm_medium=repo&utm_campaign=best_ai_tools_repo&utm_content=explore_tools)
 
-- [Other](#other)
+## Browse AI Tools
 
----
+### Categories
 
-## Other
+- [AI Writing Tools](https://poweredbyai.app/ai-tools/writing?utm_source=github&utm_medium=poweredbyai_repo&utm_campaign=best_ai_tools_repo&utm_content=ai_writing_tools)
+- [AI Coding Tools](https://poweredbyai.app/ai-tools/coding?utm_source=github&utm_medium=poweredbyai_repo&utm_campaign=best_ai_tools_repo&utm_content=ai_coding_tools)
+- [AI Design Tools](https://poweredbyai.app/ai-tools/design?utm_source=github&utm_medium=poweredbyai_repo&utm_campaign=best_ai_tools_repo&utm_content=ai_design_tools)
+- [AI Marketing Tools](https://poweredbyai.app/ai-tools/marketing?utm_source=github&utm_medium=poweredbyai_repo&utm_campaign=best_ai_tools_repo&utm_content=ai_marketing_tools)
+- [AI SEO Tools](https://poweredbyai.app/ai-tools/seo?utm_source=github&utm_medium=poweredbyai_repo&utm_campaign=best_ai_tools_repo&utm_content=ai_seo_tools)
+- [AI Productivity Tools](https://poweredbyai.app/ai-tools/productivity?utm_source=github&utm_medium=poweredbyai_repo&utm_campaign=best_ai_tools_repo&utm_content=ai_productivity_tools)
+
+### Popular searches
+
+- Best AI Tools
+- Free AI Tools
+- ChatGPT Alternatives
+
+## AI Tools List
+
+Updated regularly with the newest AI tools from PoweredbyAI — explore **8,214+** tools across categories.
 
 - [&facts](https://www.andfacts.com/?ref=poweredbyai) — &facts gives brands access to market insights driven by real-world data. We help them to launch the right products at th…
 - [/agent by Firecrawl](https://www.producthunt.com/r/ATYZPRMPOENSED?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+PoweredByAi+%28ID%3A+129646%29) — Firecrawl /agent is a magic API that searches, navigates, and gathers data from even the most complex websites. Describe…
@@ -2751,6 +2766,7 @@
 - [Flow AI](https://www.producthunt.com/r/I3JZP5OTZVGECS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+PoweredByAi+%28ID%3A+129646%29&ref=poweredbyai) — 75% OFF with Promo Code (see comments)! Flow AI is the #1 tool to find UNLIMITED ideal buyers, scale multi-sender outrea…
 - Flow Studio — Flow Studio: AI Short Films and Video Generator Flow Studio turns any idea into a short video with background music, sou… | `Free`
 - Flowchart Maker — AI-powered flowchart tool that simplifies design with text input, interactive editing via chat, and manual drawing optio…
+- [FlowChartAI Image to Excel Converter](https://www.flowchartai.tech/image-to-excel) — FlowChartAI offers an AI-powered online tool that converts images such as JPG or PNG into editable Excel spreadsheets. I… | `Free`
 - [Flowdrop](https://www.producthunt.com/r/CUOV2PMUK64KFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+PoweredByAi+%28ID%3A+129646%29) — Flowdrop is a no-code, AI-powered workflow builder that gets you automated in minutes. No API key management, no lengthy…
 - [FlowEngine](https://flowengine.cloud/) — n8n is powerful, but setting up infrastructure slows you down. Flowengine removes those barriers so you can focus purely…
 - [FlowGent AI](https://flowgent.ai/) — FlowGent empowers you to create, deploy, and sell Al solutions without coding.  Whitelabel our software and help SMB's a…
@@ -8228,6 +8244,10 @@
 - [町猫 machineko](https://machineko.app) — 町猫 machineko is a unique platform that allows users to interact and talk with street cats living in urban areas. It prov… | `Free`
 - [顔文字屋](https://www.kaomojiya.org/) — Kaomojiya is a Tokyo-based platform dedicated to curating thousands of Japanese text emoticons (kaomoji). All kaomoji ar… | `Free`
 
+## Keywords
+
+Best AI tools, AI tools directory, AI agents, AI software, AI apps list, submit AI tools, SaaS tools, machine learning tools, marketing tools, productivity tools
+
 ---
 
-*Generated from [poweredbyai.app](https://poweredbyai.app)*
+*Generated from [PoweredbyAI](https://poweredbyai.app)*
