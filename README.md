@@ -1,8 +1,8 @@
 # Awesome AI Tools
 
-> 8,212 AI tools curated from [poweredbyai.app](https://poweredbyai.app)
+> 8,213 AI tools curated from [poweredbyai.app](https://poweredbyai.app)
 
-![Tools](https://img.shields.io/badge/tools-8212-blue)
+![Tools](https://img.shields.io/badge/tools-8213-blue)
 
 ---
 
@@ -7129,6 +7129,7 @@
 - [Teacherbot](https://teacherbot.io/?ref=poweredbyai) — With Teacherbot, Teachers can now develop Creative and much more effective learning plans for their students, It offers…
 - Teachify — Teachify is an AI-powered tool designed to assist educators in creating engaging and effective learning activities. The…
 - [TeachQuill](https://teachquill.com/) — All-in-One AI Tools for Teachers Save 10+ hours a week on planning, grading, and communication. Generate standards-align…
+- [TeachQuill](https://teachquill.com/) — TeachQuill provides K–12 and college educators with 100+ AI tools for lesson planning, instructional materials, classroo…
 - [TeachTools](https://teachtools.co) — TeachTools is a comprehensive teaching command center that allows educators to create professional worksheets, quizzes,…
 - [Teal Resume Builder](https://www.tealhq.com/?ref=poweredbyai) — Make your resume stand out by quickly customizing it to each application and applying to more jobs.
 - [Team Bizplanr](https://bizplanr.ai/?ref=poweredbyai) — Short description  Bizplanr.ai is an automated AI-powered business plan generator that helps entrepreneurs streamline th… | `Free`
