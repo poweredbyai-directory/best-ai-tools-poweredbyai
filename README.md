@@ -1,6 +1,6 @@
 # Best AI Tools Directory (2026) – Discover, Compare & Submit AI Tools
 
-Discover **6,181+** AI tools, AI agents, and AI software across categories like productivity, marketing, coding, and design.
+Discover **6,182+** AI tools, AI agents, and AI software across categories like productivity, marketing, coding, and design.
 
 Curated by [PoweredbyAI](https://poweredbyai.app) — a growing directory to discover, compare, and submit AI tools across categories.
 
@@ -27,7 +27,7 @@ Curated by [PoweredbyAI](https://poweredbyai.app) — a growing directory to dis
 
 ## AI Tools List
 
-Updated regularly with the newest AI tools from PoweredbyAI — explore **6,181+** tools across categories.
+Updated regularly with the newest AI tools from PoweredbyAI — explore **6,182+** tools across categories.
 
 ---
 
